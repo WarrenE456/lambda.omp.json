@@ -12,7 +12,7 @@
         },
         {
           "style": "plain",
-          "template": " {{ .FormattedMs }} ",
+          "template": "{{ .FormattedMs }} ",
           "type": "executiontime"
         },
         {
