@@ -11,14 +11,9 @@
           "template": "\uf52f {{.Code}} "
         },
         {
-          "style": "plain",
-          "template": "{{ .FormattedMs }} ",
-          "type": "executiontime"
-        },
-        {
           "foreground": "#5FAAE8",
           "style": "plain",
-          "template": "\u279c",
+          "template": "\u03BB",
           "type": "text"
         },
         {
