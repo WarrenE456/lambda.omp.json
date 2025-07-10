@@ -33,6 +33,12 @@
           "style": "plain",
           "template": "<#5FAAE8>git:(</>{{ .HEAD }}<#5FAAE8>)</>",
           "type": "git"
+        },
+        {
+          "foreground": "#5FAAE8",
+          "style": "plain",
+          "template": ".",
+          "type": "text"
         }
       ],
       "type": "prompt"
